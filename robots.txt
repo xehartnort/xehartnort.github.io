@@ -1,0 +1,5 @@
+Sitemap: sitemap_0.xml.gz
+Sitemap: sitemap_1.xml.gz
+Sitemap: sitemap_2.xml.gz
+User-agent: *
+Disallow:
