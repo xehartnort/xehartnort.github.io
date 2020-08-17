@@ -4,10 +4,20 @@ from jinja2 import Template
 import gzip
 import argparse
 import sys
+from urllib.parse import quote
 
-# Set-Up Maximum Number of URLs (recommended max 50,000)
-# Added 20 here because I am using a small template of URLs and I want to show an example
-url_per_file = 50000
+
+def write_to_sitemap(all_urls, sitemap_template, index):
+    # We have parsed url_per_file lines
+    template = Template(sitemap_template)
+    # Render each row / column in the sitemap
+    sitemap_output = template.render(pages=list_of_urls)
+    # Create a filename for each sitemap like: sitemap_0.xml.gz, sitemap_1.xml.gz, etc.
+    filename = 'sitemap_' + str(index) + '.xml'
+    # Write the file to your current folder, not appending???
+    with open(filename, 'wt') as f:
+        f.write(sitemap_output)
+
 
 # Create a Sitemap Template to Populate
 sitemap_template = '''<?xml version="1.0" encoding="UTF-8"?>
@@ -16,8 +26,6 @@ sitemap_template = '''<?xml version="1.0" encoding="UTF-8"?>
     <url>
         <loc>{{page[0]|safe}}</loc>
         <lastmod>{{page[1]}}</lastmod>
-        <changefreq>{{page[2]}}</changefreq>
-        <priority>{{page[3]}}</priority>
     </url>
     {% endfor %}
 </urlset>'''
@@ -27,59 +35,38 @@ today = datetime.datetime.now().strftime('%Y-%m-%d')
 if __name__ == "__main__":
     description = "This script collects all the urls listed in a file and generates as many sitemap.xml files as required"
     parser = argparse.ArgumentParser(description)
-    parser.add_argument("-n", "--url-per-file", type=int, dest="url_per_file", help="Number of URL per sitemap file", default=300)
-    parser.add_argument("-u", "--url-list", type=str, dest="url_list", help="Path to file which contains all the URLs", required=True)
+    parser.add_argument("-n", "--url-per-file", type=int, dest="url_per_file",
+                        help="Number of URL per sitemap file (default 50.000)", default=50000)
+    parser.add_argument("-u", "--url-list", type=str, dest="url_list",
+                        help="Path to file which contains all the URLs", required=True)
+    parser.add_argument("-wr", "--write-robots-txt",
+                        type=bool, dest="write_robots")
+
     args = parser.parse_args(sys.argv[1:])
 
     url_per_file = args.url_per_file
     url_list = args.url_list
+    write_robots = args.write_robots or False
 
-    list_of_urls = [[0, '', '', '']] * url_per_file
+    list_of_urls = []
 
     with open(url_list, 'r') as fin:
-        with open("robots.txt", 'w') as frobots:
-            file_number = 0
-            for i, lin in enumerate(fin):
-                array_i = i % url_per_file
-                if array_i != 0 or i == 0:
-                    # Remove whitespace and return chars
-                    list_of_urls[array_i][0] = lin.strip()
-                    # Set Today's Date to add as Lastmod
-                    list_of_urls[array_i][1] = today
-                    # Set change frequency
-                    list_of_urls[array_i][2] = 'daily'
-                    # Set priority
-                    list_of_urls[array_i][3] = '1.0'
-                else:
-                    # We have parsed url_per_file lines
-                    template = Template(sitemap_template)
-                    # Render each row / column in the sitemap
-                    sitemap_output = template.render(pages=list_of_urls)
-                    # Create a filename for each sitemap like: sitemap_0.xml.gz, sitemap_1.xml.gz, etc.
-                    filename = 'sitemap_' + str(file_number) + '.xml.gz'
-                    # Write the file to your current folder
-                    with gzip.open(filename, 'wt') as f:
-                        f.write(sitemap_output)
-
-                    frobots.write("Sitemap: {}\n".format(filename))
-
-                    file_number += 1
-            # As the number of lines in the input file is unknown, we need to
-            # ensure that if url_per_file is bigger than
-            # the number of lines, at least a sitemap file is generated
-            if file_number == 0:
-                # We have parsed url_per_file lines
-                template = Template(sitemap_template)
-                # Render each row / column in the sitemap
-                sitemap_output = template.render(pages=list_of_urls)
-                # Create a filename for each sitemap like: sitemap_0.xml.gz, sitemap_1.xml.gz, etc.
-                filename = 'sitemap.xml.gz'
-                # Write the file to your current folder
-                with gzip.open(filename, 'wt') as f:
-                    f.write(sitemap_output)
-
-                frobots.write("Sitemap: {}\n".format(filename))
-
+        file_number = 0
+        for i, lin in enumerate(fin):
+            array_i = i % url_per_file
+            if array_i != 0 or i == 0:
+                encoded_url = quote(lin.strip(), safe=':/')
+                list_of_urls.append((encoded_url, today))
+            else:
+                write_to_sitemap(list_of_urls, sitemap_template, file_number)
                 file_number += 1
+                list_of_urls = []
+        if len(list_of_urls) > 0:
+            write_to_sitemap(list_of_urls, sitemap_template, file_number)
 
-            frobots.write("User-agent: *\nDisallow:")
+    if write_robots:
+        print(write_robots)
+        with open("robots.txt", 'w') as frobots:
+            for i in range(file_number+1):
+                frobots.write("Sitemap: sitemap_{}.xml.gz\n".format(i))
+            frobots.write("\nUser-agent: *\nDisallow:")
