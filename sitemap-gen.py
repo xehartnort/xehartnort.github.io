@@ -13,9 +13,9 @@ def write_to_sitemap(all_urls, sitemap_template, index):
     # Render each row / column in the sitemap
     sitemap_output = template.render(pages=list_of_urls)
     # Create a filename for each sitemap like: sitemap_0.xml.gz, sitemap_1.xml.gz, etc.
-    filename = 'sitemap_' + str(index) + '.xml'
+    filename = 'sitemap_' + str(index) + '.xml.gz'
     # Write the file to your current folder, not appending???
-    with open(filename, 'wt') as f:
+    with gzip.open(filename, 'wt') as f:
         f.write(sitemap_output)
 
 
@@ -65,7 +65,6 @@ if __name__ == "__main__":
             write_to_sitemap(list_of_urls, sitemap_template, file_number)
 
     if write_robots:
-        print(write_robots)
         with open("robots.txt", 'w') as frobots:
             for i in range(file_number+1):
                 frobots.write("Sitemap: sitemap_{}.xml.gz\n".format(i))
