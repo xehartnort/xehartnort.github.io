@@ -15,10 +15,6 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <form id = "searchform" target = "_blank" method = "get" action = "https://www.google.com/search" >
-        <input name = "q" type = "text" maxlength="255" placeholder = "Buscador ...">
-        <input value = "xehartnort.github.io" type = "hidden" name = "sitesearch" >
-    </form>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}

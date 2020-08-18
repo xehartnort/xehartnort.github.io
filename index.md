@@ -1,10 +1,15 @@
 
+# Buscador
 
 <div markdown = "0">
     <form id = "searchform" target = "_blank" method = "get" action = "https://www.google.com/search" >
-        <input name = "q" type = "text" maxlength="255" placeholder = "Buscador ...">
+        <input name = "q" type = "text" maxlength="255" placeholder = "Prueba buscando: algoritmica 1112">
         <input value = "xehartnort.github.io" type = "hidden" name = "sitesearch" >
     </form>
+</div>
+
+<div markdown = "0">
+    <iframe src="https://duckduckgo.com/search.html?site=xehartnort.github.io" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
 </div>
 
 # ¿Cómo funciona?
