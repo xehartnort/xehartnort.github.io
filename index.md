@@ -1,3 +1,21 @@
-Esta debería de ser la página principal, pinche
-# Toma sección principal
-## Toma subsección
+
+# ¿Cómo funciona?
+
+Este projecto se sirve del servicio de indexación de Google para realizar búsquedas sobre la estructura de directorios.
+
+# ¿Cómo contribuir?
+
+Para contribuir crea un Pull Request en el que añadas los documentos en la carpeta correspondiente de la estructura de directorios. Cuándo dicho Pull Request sea aceptado, se añadiran los nuevos documentos al sitemap de la web y en breves, será indexado por Google.
+
+## ¿Cómo se estructuran los exámenes?
+
+Cada archivo se encuentra almacenado en las profundidades de la estructura de directorios atendiendo a los siguientes criterios: grado al que pertenece el examen, curso de la asignatura del examen, asignatura del examen y año del curso en el que se realiza el examen. En caso de no poder determinar el año o ser este anterior a 2011-2012, el valor de año es UNKN (de Unknown, desconocido) o ANTE (de Anterior al origen del mundo al año 1112).
+
+Por ejemplo, si tenemos un examen del curso 1º, año 2013-2014, asignatura **Héchizos y Pócimas** del grado en *Artes Oscuras* y un tipo test de dicha asígnatura que no sabemos de que año es, pero tienen hasta telarañas, sus rutas en la estructura sería:
+
+- exámenes/Artes Oscuras/1/Héchizos y Pócimas/1314/examen
+- exámenes/Artes Oscuras/1/Héchizos y Pócimas/UNKN/tipo_test
+
+# FAQ
+
+Consulta la web de la [DEIIT] (https://deiit.ugr.es/BDExamenes)
