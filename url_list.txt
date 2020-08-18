@@ -1,3 +1,4 @@
+https://xehartnort.github.io
 https://xehartnort.github.io/exámenes/Telecomunicaciones/1/Análisis de Circuitos/1112/examen_sep2012_practicas.doc
 https://xehartnort.github.io/exámenes/Telecomunicaciones/1/Análisis de Circuitos/1112/exac_feb2012.pdf
 https://xehartnort.github.io/exámenes/Telecomunicaciones/1/Análisis de Circuitos/1112/examen_sep2012.doc
@@ -434,7 +435,6 @@ https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/11
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1112/Examen de Prácticas de FS Septiembre 2012.pdf
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1112/Examen final de Teoria de FS Septiembre 2012.pdf
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1213/Examen-Diciembre-2012-Practicas.zip
-https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1213/FS.Examen Practicas Diciembre 2012.tar.gz
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1314/ExamenTema1B.pdf
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1314/ExamenTema1A.pdf
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1314/Prácticas Módulo 1.zip
@@ -442,67 +442,27 @@ https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/13
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/ANTE/FS - 2011 - Febrero.pdf
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1516/Examen practicas de FS modulo 2 enero 2016.pdf
 https://xehartnort.github.io/exámenes/Informática/1/Fundamentos de Software/1516/Examen practicas de FS modulo 1 curso 2015-2016.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Teoría de la Información y la Codificación/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Infraestructura Virtual/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Centros de Procesamiento de Datos/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Animación por Ordenador/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Visión por Computador/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Simulación de Sistemas/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Técnicas de los Sistemas Inteligentes/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Sistemas Cooperativos y Gestión de Contenidos/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Periféricos y Dispositivos de Interfaz Humana/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Transmisión de Datos y Redes de Computadores/1314/Examen_TDRC_FINAL_NO_SOLUCIONES_v004.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Transmisión de Datos y Redes de Computadores/UNKN/Tema_02_04_ejercicios_v001.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Transmisión de Datos y Redes de Computadores/UNKN/Tema_03_04_ejercicios_v003.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Transmisión de Datos y Redes de Computadores/UNKN/Prácticas.tar
-https://xehartnort.github.io/exámenes/Informática/4/Desarrollo Basado en Agentes/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Desarrollo Basado en Agentes/1314/Examen Febrero DBA 1314.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Desarrollo Basado en Agentes/1516/Examen Febrero DBA1516.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Desarrollo Basado en Agentes/1415/Examen Septiembre DBA1415 (comentado).pdf
 https://xehartnort.github.io/exámenes/Informática/4/Desarrollo Basado en Agentes/1415/Examen Septiembre DBA1415.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Desarrollo Basado en Agentes/1617/Examen Febrero DBA1617.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Nuevos Paradigmas de Interacción/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Seguridad y Protección de Sistemas Informáticos/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Procesamiento Digital de Señales/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Creación de Empresas y Gestión Emprendedora/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Programación Lúdica/1314/PLD-Examen junio 2014.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Nuevas Tecnologías de la Programación/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Recuperación de Información/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Recuperación de Información/1112/Febrero 2013.jpg
 https://xehartnort.github.io/exámenes/Informática/4/Recuperación de Información/1516/Febrero 2016.jpg
 https://xehartnort.github.io/exámenes/Informática/4/Recuperación de Información/1415/Diciembre 2014.jpg
 https://xehartnort.github.io/exámenes/Informática/4/Recuperación de Información/1415/Febrero 2015.jpg
 https://xehartnort.github.io/exámenes/Informática/4/Recuperación de Información/1617/ExamenEnero2017.jpg
 https://xehartnort.github.io/exámenes/Informática/4/Recuperación de Información/1617/ExamenSeptiembre2017.jpg
-https://xehartnort.github.io/exámenes/Informática/4/Desarrollo de Aplicaciones para Internet/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Desarrollo de Aplicaciones para Internet/1718/photo6051095830842158123.jpg
 https://xehartnort.github.io/exámenes/Informática/4/Desarrollo de Aplicaciones para Internet/1617/examen_febrero_2016.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Informática Industrial/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Sistemas de Información Geográficos/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Derecho Informático/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Programación Paralela/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Tratamiento de Imágenes Digitales/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Redes y Sistemas Complejos/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Programación Técnica y Científica/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Ética Informática y Sociedad de la Información/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Tecnologías Emergentes/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Seguridad en Sistemas Operativos/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Programaciones Paralelas/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Bases de Datos Distribuidas/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Bases de Datos Distribuidas/1718/temas 1-2.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Redes Multiservicio/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Inteligencia de Negocio/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Inteligencia de Negocio/1718/IN-7-examenes-2014-2016.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Programación Gráfica de Videojuegos/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Programación Gráfica de Videojuegos/1718/PGV-pruebaTipo.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Compresión y Recuperación de Información Multimedia/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Dirección y Gestión de Proyectos/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Tecnologías de Red/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Implementación de Algoritmos en Hardware/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Gestión de Recursos Digitales/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Metodologías de Desarrollo Ágil/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Robótica Industrial/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Circuitos Integrados e Impresos/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Procesadores de Lenguajes/ANTE/2008 Diciembre.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Procesadores de Lenguajes/ANTE/2006 Practicas Junio.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Procesadores de Lenguajes/ANTE/2009 Parcial.pdf
@@ -516,8 +476,6 @@ https://xehartnort.github.io/exámenes/Informática/4/Procesadores de Lenguajes/
 https://xehartnort.github.io/exámenes/Informática/4/Procesadores de Lenguajes/ANTE/2009 Junio.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Procesadores de Lenguajes/ANTE/2006 Practicas Septiembre.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Procesadores de Lenguajes/ANTE/2008 Parcial.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Sistemas Empotrados/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Controladores Lógicos Programables/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Informática Gráfica/1718/examenIGenero2018.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Informática Gráfica/1718/NuevoDocumento 2018-01-17.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Informática Gráfica/1112/NuevoDocumento 2018-01-17.pdf
@@ -525,12 +483,8 @@ https://xehartnort.github.io/exámenes/Informática/4/Informática Gráfica/1617
 https://xehartnort.github.io/exámenes/Informática/4/Criptografía y Computación/1314/CRIP-Examen final 2014.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Criptografía y Computación/ANTE/CRIP-Exámenes resueltos plan antiguo.pdf
 https://xehartnort.github.io/exámenes/Informática/4/Criptografía y Computación/ANTE/CRIP-Exámenes sin resolver plan antiguo.pdf
-https://xehartnort.github.io/exámenes/Informática/4/Programación de Dispositivos Móviles/.empty
-https://xehartnort.github.io/exámenes/Informática/4/Mantenimiento de Equipos Informáticos/.empty
 https://xehartnort.github.io/exámenes/Informática/4/Diseño y Desarrollo de Sistemas de Información/1617/resolucionPruebaParcial16-17.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Sistemas Multimedia/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Diseño de Interfaces de Usuario/1516/2016 EJERCICIOS Y PROBLEMAS.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Arquitectura de Sistemas/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Redes/1718/fr_examen_ene18_res.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Redes/1213/FR-Examen septiembre 2013 Corregido.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Redes/1213/FR-Examen ejemplo 2013 Corregido.pdf
@@ -543,11 +497,7 @@ https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Redes/1415/
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Redes/UNKN/fr_examen_ejemplo.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Redes/1617/fr_examen_feb17_res.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Servidores Web de Altas Prestaciones/1516/Examen Mayo 2016.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Arquitecturas y Computación de Altas Prestaciones/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Técnicas de los Sistemas Inteligentes/1617/Teoría Jun17.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Transmisión de Datos y Redes de Computadores/.empty
-https://xehartnort.github.io/exámenes/Informática/3/Desarrollo de Hardware Digital/.empty
-https://xehartnort.github.io/exámenes/Informática/3/Diseño de Sistemas Electrónicos/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Modelos Avanzados de Computación/1213/Modelos avanzados de computacion 2012-2013 junio.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Modelos Avanzados de Computación/1213/Modelos avanzados de computacion 2012-2013 septiembre.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Modelos Avanzados de Computación/1213/MAC - Examen parcial 2013.pdf
@@ -561,16 +511,12 @@ https://xehartnort.github.io/exámenes/Informática/3/Modelos Avanzados de Compu
 https://xehartnort.github.io/exámenes/Informática/3/Metaheurísticas/1213/MH - Examen junio 2013.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Metaheurísticas/1213/MH - Examen parcial 2013.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Metaheurísticas/UNKN/MH - Relaciones de ejercicios.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Desarrollo de Sistemas Distribuidos/.empty
-https://xehartnort.github.io/exámenes/Informática/3/Sistemas Gráficos/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Bases de Datos/1516/Parcial2_Práctico_Resuelto.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Bases de Datos/1415/FBD_Parcial1_2014.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Bases de Datos/1415/FBD_Parcial2_2014.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Fundamentos de Bases de Datos/1617/FBD_ Preguntas test del Parcial 1.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Sistemas con Microprocesadores/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Computación Ubicua e Inteligencia Ambiental/1314/ExamenCUIA.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Computación Ubicua e Inteligencia Ambiental/1516/cuia2016.jpg
-https://xehartnort.github.io/exámenes/Informática/3/Ingeniería del Conocimiento/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Desarrollo de Software/1314/examen-2014-junio-resultados.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Desarrollo de Software/1314/examen-2014-septiembre-resultados.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Desarrollo de Software/1415/examen-practicas.pdf
@@ -607,9 +553,6 @@ https://xehartnort.github.io/exámenes/Informática/3/Ingeniería de Servidores/
 https://xehartnort.github.io/exámenes/Informática/3/Ingeniería de Servidores/UNKN/test examen prac.tar
 https://xehartnort.github.io/exámenes/Informática/3/Ingeniería de Servidores/UNKN/ISE - Relaciones de Ejercicios.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Ingeniería de Servidores/1617/Examen_ISE_FEB2017.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Sistemas de Información para Empresas/.empty
-https://xehartnort.github.io/exámenes/Informática/3/Sistemas Multidimensionales/.empty
-https://xehartnort.github.io/exámenes/Informática/3/Programación Web/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Modelos de Computación/1718/scanner_20180130_231150.jpg
 https://xehartnort.github.io/exámenes/Informática/3/Modelos de Computación/1718/mcENERO2018.pdf
 https://xehartnort.github.io/exámenes/Informática/3/Modelos de Computación/1213/mc13sep.pdf
@@ -674,9 +617,7 @@ https://xehartnort.github.io/exámenes/Informática/3/Informática Gráfica/UNKN
 https://xehartnort.github.io/exámenes/Informática/3/Informática Gráfica/UNKN/preguntas_proyeccciones.odt
 https://xehartnort.github.io/exámenes/Informática/3/Informática Gráfica/UNKN/preguntas_modelos_jer__rquicos.odt
 https://xehartnort.github.io/exámenes/Informática/3/Informática Gráfica/1617/Diciembre1617.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Ingeniería de Sistemas de Información/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Tecnologías Web/1314/examen-junio.pdf
-https://xehartnort.github.io/exámenes/Informática/3/Aprendizaje Automático/.empty
 https://xehartnort.github.io/exámenes/Informática/3/Sistemas de Información Basados en Web/1516/Examen_SEP_2016.docx
 https://xehartnort.github.io/exámenes/Informática/3/Sistemas de Información Basados en Web/1516/Examen_FEB_2016.docx
 https://xehartnort.github.io/exámenes/Informática/3/Diseño y Desarrollo de Sistemas de Información/1213/DDSI-Examen febrero 2013.pdf
@@ -980,12 +921,8 @@ https://xehartnort.github.io/exámenes/Informática y Matemáticas/1/Geometría 
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/1/Geometría I/1314/examen-tema3.pdf
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/1/Geometría I/1415/res 2ª prueba inter.pdf
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/1/Geometría I/1415/Final_14-15.pdf
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/4/Ecuaciones Diferenciales II/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/4/Modelos Matemáticos II/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/4/Curvas y Superficies/.empty
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/4/Álgebra III/1516/examen-1.pdf
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/4/Análisis Funcional/1617/Parcial1_1617_sol.pdf
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/4/Inferencia Estadística/.empty
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/4/Topología II/1617/ParcialTop1617Sol.pdf
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/3/Variable Compleja/1314/VC-Parcial.pdf
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/3/Variable Compleja/1516/Control2.pdf
@@ -1052,21 +989,3 @@ https://xehartnort.github.io/exámenes/Informática y Matemáticas/2/Álgebra I/
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/2/Análisis Matemático II/1314/IMG-20150413-WA0002.jpg
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/2/Análisis Matemático II/1314/IMG-20150413-WA0003.jpg
 https://xehartnort.github.io/exámenes/Informática y Matemáticas/2/Geometría III/1112/2012febGIII.pdf
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Taller de Geometría y Topología/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Procesos Estocásticos/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Mecánica Celeste/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Variedades Diferenciables/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Álgebras, Grupos y Representaciones/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Ecuaciones en Derivadas Parciales/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Ecuaciones Diferenciales en Mecánica y Biología/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Análisis Vectorial/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Variable Compleja II/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Teoría de Números y Criptografía/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Historia de las Matemáticas/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Estadística Multivariante/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Álgebra Moderna/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Álgebra Conmutativa y Computacional/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Análisis de Fourier/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Estadística Computacional/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Geometría Global de Curvas y Superficies/.empty
-https://xehartnort.github.io/exámenes/Informática y Matemáticas/5/Análisis Numérico de Ecuaciones en Derivadas Parciales/.empty
