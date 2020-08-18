@@ -44,7 +44,7 @@ Para contribuir crea un Pull Request en el que añadas los documentos en la carp
 
 ### Estructura de los directorios
 
-Cada archivo se encuentra almacenado en las profundidades de la estructura de directorios atendiendo a los siguientes criterios: grado al que pertenece el examen, curso de la asignatura del examen, asignatura del examen y año del curso en el que se realiza el examen. En caso de no poder determinar el año o ser este anterior a 2011-2012, el valor de año es UNKN (de Unknown, desconocido) o ANTE (de Anterior al origen del mundo al año 1112).
+Cada archivo se encuentra almacenado en las profundidades de la estructura de directorios atendiendo a los siguientes criterios: grado al que pertenece el examen, curso de la asignatura del examen, asignatura del examen y año del curso en el que se realizó. En caso de no poder determinar el año o ser éste anterior a 2011-2012, el valor de año es UNKN (de Unknown, desconocido en ingés) o ANTE (de Anterior al origen del mundo, es decir, el curso 2011-2012).
 
 Por ejemplo, si tenemos un **examen.pdf** del curso 1º, año 2013-2014, asignatura **Héchizos y Pócimas** del grado en *Artes Oscuras* y un **tipo_test.pdf** de dicha asígnatura que no sabemos de que año es, pero tienen hasta telarañas, sus rutas en la estructura serían:
 
