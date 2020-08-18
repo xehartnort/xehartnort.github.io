@@ -11,10 +11,10 @@ Para contribuir crea un Pull Request en el que añadas los documentos en la carp
 
 Cada archivo se encuentra almacenado en las profundidades de la estructura de directorios atendiendo a los siguientes criterios: grado al que pertenece el examen, curso de la asignatura del examen, asignatura del examen y año del curso en el que se realiza el examen. En caso de no poder determinar el año o ser este anterior a 2011-2012, el valor de año es UNKN (de Unknown, desconocido) o ANTE (de Anterior al origen del mundo al año 1112).
 
-Por ejemplo, si tenemos un examen del curso 1º, año 2013-2014, asignatura **Héchizos y Pócimas** del grado en *Artes Oscuras* y un tipo test de dicha asígnatura que no sabemos de que año es, pero tienen hasta telarañas, sus rutas en la estructura sería:
+Por ejemplo, si tenemos un **examen.pdf** del curso 1º, año 2013-2014, asignatura **Héchizos y Pócimas** del grado en *Artes Oscuras* y un **tipo_test.pdf** de dicha asígnatura que no sabemos de que año es, pero tienen hasta telarañas, sus rutas en la estructura serían:
 
-- exámenes/Artes Oscuras/1/Héchizos y Pócimas/1314/examen
-- exámenes/Artes Oscuras/1/Héchizos y Pócimas/UNKN/tipo_test
+- exámenes/Artes Oscuras/1/Héchizos y Pócimas/1314/examen.pdf
+- exámenes/Artes Oscuras/1/Héchizos y Pócimas/UNKN/tipo_test.pdf
 
 # FAQ
 
