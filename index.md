@@ -1,13 +1,21 @@
 
+
+<div markdown = "0">
+    <form id = "searchform" target = "_blank" method = "get" action = "https://www.google.com/search" >
+        <input name = "q" type = "text" maxlength="255" placeholder = "Buscador ...">
+        <input value = "xehartnort.github.io" type = "hidden" name = "sitesearch" >
+    </form>
+</div>
+
 # ¿Cómo funciona?
 
-Este projecto se sirve del servicio de indexación de Google para realizar búsquedas sobre la estructura de directorios.
+Este projecto se sirve del servicio de indexación de Google para realizar búsquedas sobre la estructura de directorios. En el futuro, nos gustaría ser compatibles con más buscadores, tales como Duckduckgo y Bing.
 
 # ¿Cómo contribuir?
 
 Para contribuir crea un Pull Request en el que añadas los documentos en la carpeta correspondiente de la estructura de directorios. Cuándo dicho Pull Request sea aceptado, se añadiran los nuevos documentos al sitemap de la web y en breves, será indexado por Google.
 
-## ¿Cómo se estructuran los exámenes?
+### Estructura de los directorios
 
 Cada archivo se encuentra almacenado en las profundidades de la estructura de directorios atendiendo a los siguientes criterios: grado al que pertenece el examen, curso de la asignatura del examen, asignatura del examen y año del curso en el que se realiza el examen. En caso de no poder determinar el año o ser este anterior a 2011-2012, el valor de año es UNKN (de Unknown, desconocido) o ANTE (de Anterior al origen del mundo al año 1112).
 
