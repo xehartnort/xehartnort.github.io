@@ -10,11 +10,27 @@
 </div>
 
 
-### Duckduckgo
+### DuckDuckGo
 <div markdown = "0">
-    <form id = "searchform" target = "_blank" method = "get" action = "https://duckduckgo.com">
-        <input name = "q" type = "text" maxlength="255" placeholder = "Prueba buscando: algoritmica 1112. Powered by Duckduckgo" style="width:100%;height:40px;padding:12px 40px 12px 12px">
-        <input value = "xehartnort.github.io" type = "hidden" name = "site" >
+     <form id = "searchform" target = "_blank" method = "get" action = "https://duckduckgo.com" onsubmit = "(function() {
+        const url = 'site:xehartnort.github.io';
+        const input = document.getElementById('DuckDuckGo');
+        if (!input.value.includes(url)){
+          input.value = input.value + ' ' + url;
+        }})()">
+        <input id = "DuckDuckGo" name = "q" type = "text" maxlength="255" placeholder = "Prueba buscando: algoritmica 1112. Powered by DuckDuckGo" style="width:100%;height:40px;padding:12px 40px 12px 12px">
+    </form>
+</div>
+
+### Bing
+<div markdown = "0">
+     <form id = "searchform" target = "_blank" method = "get" action = "https://bing.com" onsubmit = "(function() {
+        const url = 'site:xehartnort.github.io';
+        const input = document.getElementById('Bing');
+        if (!input.value.includes(url)){
+          input.value = input.value + ' ' + url;
+        }})()">
+        <input id = "Bing" name = "q" type = "text" maxlength="255" placeholder = "Prueba buscando: algoritmica 1112. Powered by Bing" style="width:100%;height:40px;padding:12px 40px 12px 12px">
     </form>
 </div>
 
