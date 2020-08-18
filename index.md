@@ -1,6 +1,7 @@
 
-# Buscador
+# Buscadores
 
+### Google
 <div markdown = "0">
     <form id = "searchform" target = "_blank" method = "get" action = "https://www.google.com/search">
         <input name = "q" type = "text" maxlength="255" placeholder = "Prueba buscando: algoritmica 1112. Powered by Google" style="width:100%;height:40px;padding:12px 40px 12px 12px">
@@ -8,12 +9,10 @@
     </form>
 </div>
 
-<div markdown = "0">
-    <iframe src="https://duckduckgo.com/search.html?site=xehartnort.github.io" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
-</div>
 
+### Duckduckgo
 <div markdown = "0">
-    <form id = "searchform" target = "_blank" method = "get" action = "https://duckduckgo.com/search.html">
+    <form id = "searchform" target = "_blank" method = "get" action = "https://duckduckgo.com">
         <input name = "q" type = "text" maxlength="255" placeholder = "Prueba buscando: algoritmica 1112. Powered by Duckduckgo" style="width:100%;height:40px;padding:12px 40px 12px 12px">
         <input value = "xehartnort.github.io" type = "hidden" name = "site" >
     </form>
