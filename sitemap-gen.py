@@ -33,20 +33,20 @@ sitemap_template = '''<?xml version="1.0" encoding="UTF-8"?>
 today = datetime.datetime.now().strftime('%Y-%m-%d')
 
 if __name__ == "__main__":
-    description = "This script collects all the urls listed in a file and generates as many sitemap.xml files as required"
+    description = "Collects all the urls listed in a file and generates as many sitemap.xml files as required. In addition it can create a robots.txt which includes references of the created sitemaps"
     parser = argparse.ArgumentParser(description)
     parser.add_argument("-n", "--url-per-file", type=int, dest="url_per_file",
                         help="Number of URL per sitemap file (default 50.000)", default=50000)
     parser.add_argument("-u", "--url-list", type=str, dest="url_list",
                         help="Path to file which contains all the URLs", required=True)
     parser.add_argument("-wr", "--write-robots-txt",
-                        type=bool, dest="write_robots")
+                        action="store_true", dest="write_robots")
 
     args = parser.parse_args(sys.argv[1:])
 
     url_per_file = args.url_per_file
     url_list = args.url_list
-    write_robots = args.write_robots or False
+    write_robots = args.write_robots
 
     list_of_urls = []
 
