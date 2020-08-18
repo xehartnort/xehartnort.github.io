@@ -18,4 +18,4 @@ Por ejemplo, si tenemos un **examen.pdf** del curso 1º, año 2013-2014, asignat
 
 # FAQ
 
-Consulta la web de la [DEIIT] (https://deiit.ugr.es/BDExamenes)
+Consulta la web de la https://deiit.ugr.es/BDExamenes
